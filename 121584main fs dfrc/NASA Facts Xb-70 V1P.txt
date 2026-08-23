@@ -1,0 +1,173 @@
+NASA Facts
+National Aeronautics and
+Space Administration
+Dryden Flight Research Center
+P. O. Box 273
+Edwards, California 93523
+Voice 661-276-3449
+FAX 661-276-3566
+pao@dfrc. nasa. gov FS-2003-07-084 DFRC
+XB-70
+NASA Photo ECN-1814. XB-70A Valkyrie on ramp.
+The B-70 Valkyrie, with a planned cruise speed of Mach 3 and operating altitude of 70,000 feet, was to be the
+ultimate high-altitude, high-speed manned strategic bomber. Events, however, would cause it to play a far
+different role in the history of aviation.
+To achieve Mach 3 performance, the B-70 was designed to "ride" its own shock wave, much as a surfer rides an
+ocean wave. The resulting shape used a delta wing on a slab-sided fuselage that contained the six jet engines
+that powered the aircraft. The outer wing panels were hinged. During take off, landing, and subsonic flight, they
+remained in the horizontal position. This feature increased the amount of lift produced, improving the lift-to-
+drag ratio. Once the aircraft was supersonic, the wing panels would be hinged downward. Changing the position
+1
+
+control system, and a Lockheed JetStar was modified
+as an in-flight SST simulator.
+The XB-70 Valkyrie seemed to be a perfect testbed for
+SST research. It was the same size as the projected
+SST designs, and used similar structural materials,
+such as brazed stainless steel honeycomb and titanium.
+Thus, the XB-70A ' s role changed from a manned
+bomber prototype to one of the most remarkable
+research aircraft ever flown.
+The XB-70A number 1 ( 62-001 ) made its first flight
+from Palmdale to Edwards Air F orce Base, Calif., on
+Sept. 21, 1964. Tests of the XB-70 ' s airworthiness
+occurred throughout 1964 and 1965 by North American
+Photo ED97-44244-3. XB-70 landing.
+and Air Force test pilots. The Flight Research Center
+of the wing panels reduced the drag caused by the prepared its instrument package. Although intended to
+wingtips interacted with the inlet shock wave. The cruise at Mach 3, the first XB-70 was found to have poor
+repositioned wingtips also reduced the area behind the directional stability above Mach 2. 5, and only made a
+airplane ' s center of gravity, which reduced trim drag. single flight above Mach 3. Despite the problems, the
+The downturned outer panels also provided more early flights provided data on a number of issues facing
+vertical surface to improve directional stability at high SST designers. These included aircraft noise, operational
+Mach numbers. Attached to the delta was a long, thin problems, control system design, comparison of wind
+forward fuselage. Behind the cockpit were two large tunnel predictions with actual flight data, and high -
+canards, which acted as control surfaces. altitude, clear-air turbulence.
+As impressive a technological feat as the B-70 repre-NASA Ames Research Center, Moffett Field, Calif.,
+sented, the aircraft was under development at a time wind-tunnel studies led engineers at North American
+when the future of the manned bomber was uncertain. Aviation in Downey, Calif., to build the second XB -
+During the late 1950s and early 1960s, many felt that 70A ( 62-207 ) with an added 5 degrees of dihedral on
+manned aircraft were obsolete, and the future be-the wings. This aircraft made its first flight on July 17,
+longed to missiles. As a result, the Kennedy Adminis-1965. The changes resulted in much better handling,
+tration ended plans to deploy the B-70. Two experi-and the second XB-70 achieved Mach 3 for the first
+mental XB-70A prototypes were under construction at time on Jan. 3, 1966. The aircraft made a total of nine
+North American Aviation when the program was Mach 3 flights by June.
+canceled.
+At the same time, a joint agreement was signed be -
+At the same time there was growing interest in an tween NASA and the Air Force to use the second XB -
+American supersonic transport ( SST ). Jet airliners had 70A prototype for high-speed research flights in
+cut flight times by more than half in comparison to support of the SST program, selected due to its better
+propeller-powered aircraft. A Mach 2 or 3 SST would aerodynamics, inlet controls, and a much superior
+make a similar improvement over the new subsonic jet instrument package, compared to the first aircraft. The
+airliners. The Flight Research Center ( FRC-now the NASA research flights were to begin in mid-June,
+Dryden Flight Research Center, Edwards, Calif. ) had once the North American Aviation Phase I tests of the
+several SST studies underway during the early 1960s. vehicle ' s airworthiness were completed. NASA re -
+NASA ' s Douglas F5D-1 was used for landing studies, search pilot Joe Walker was selected as the project
+a North American F-100C was modified to simulate pilot. The flights were to evaluate the aircraft on
+SST handling qualities, a North American A-5A was typical SST flight profiles, and to study the problems
+used to simulate an SST for tests of the air traffic of sonic booms on overland flights.
+2
+
+These plans went awry on June 8, 1966, when the
+second XB-70 crashed following a midair collision
+with NASA's F-104N chase plane. Joe Walker, F-
+104N pilot, died in the accident. North American test
+pilot Al White ejected from the XB-70 in his escape
+capsule, but received serious injuries in the process.
+Co-pilot Maj. Carl Cross, who was making his first
+flight in the XB-70, was unable to eject and died in the
+crash.
+The deaths of Walker and Cross, and the destruction
+of the second XB-70 had major consequences for the
+research program. The second XB-70 had been se-
+lected for the Phase II tests, which were to be con-
+ducted jointly by NASA and the Air Force. With this
+Photo EC68-2101. XB-70A on ramp.
+aircraft now destroyed, only the first aircraft was
+available. Given the aircraft's shortcomings, the Air
+Force began to doubt that it would be able to meet the
+FRC director Paul Bikle and Air Force Flight Test
+Phase II test goals.
+Center (AFFTC) commander Maj. Gen. Hugh Manson
+created a joint FRC/AFFTC XB-70 operating commit-
+The first XB-70 was undergoing maintenance and
+tee on March 15, 1967. This was patterned on similar
+modifications at the time of the accident to its sister
+committees established for the X-15 and lifting bodies.
+ship. It did not fly again until Nov. 3, 1966. Col. Joe
+The NASA XB-70 program continued to receive Air
+Cotton piloted it, while NASA research pilot Fitzhugh
+Force assistance, in terms of aircraft support and Air
+Fulton served as co-pilot. The flight reached a top
+Force test pilots.
+speed of Mach 2.1. Between November 1966 and the
+end of January 1967, a total of 11 joint Air Force/
+The first NASA XB-70 flight occurred on April 25,
+NASA research flights occurred. Cotton, Fulton, and
+1967, by Fulton and Cotton. By the end of March
+Van H. Shepard of North American Aviation were
+1968, another 12 research flights had been completed.
+crewmen on these flights. A top speed of Mach 2.57
+The pilots included Fulton, Cotton, and Shepard, as
+was the highest attained during the remainder of the
+well as Lt. Col. Emil Sturmthal and NASA research
+XB-70 program.
+pilot Don Mallick. The flights acquired data to corre-
+late with an Ames ground-based SST simulator and
+These flights were made as part of the National Sonic
+the JetStar in-flight SST simulator at FRC. Other XB-
+Boom Program. The XB-70 flew at differing altitudes,
+70 research goals were to measure its structural re-
+Mach numbers, and weights over an instrumented test
+sponse to turbulence; determine the aircraft's handling
+range at Edwards. The "boom carpet" area was deter-
+qualities during landings; and investigate boundary
+mined and the overpressure measured on two specially
+layer noise, inlet performance, and structural dynam-
+constructed housing units. The tests showed that a
+ics, including fuselage bending and canard flight
+large aircraft, such as the XB-70 or the projected SST,
+loads.
+could generate overpressures high enough to cause
+damage. Moreover, when the XB-70 made a turn, its
+The XB-70 underwent modifications after a final
+shock waves converged, and often doubled the over-
+flight on March 21, 1968. During research flights, the
+pressure on the ground.
+XB-70 pilots had frequently experienced trim changes
+and buffeting during high-speed, high-altitude flights.
+Following these tests, the XB-70 was grounded for
+These resulted from clear-air turbulence and rapidly
+maintenance that lasted 2 1/2 months. The Air Force
+changing atmospheric temperatures. For a specialized
+had concluded by that point that the XB-70 program
+research aircraft, these characteristics were little more
+should be turned over to NASA as soon as possible.
+than annoying; on a commercial SST, however, they
+3
+
+amplitude. The XB-70's accelerometers detected the
+disturbances, then signaled the aircraft's stability
+augmentation system to damp out the motion. When
+XB-70 research flights resumed on June 11, 1968, the
+ILAF proved its ability to reduce the effects of turbu-
+lence and atmospheric temperature changes.
+Despite the accomplishments of the XB-70, time was
+running out for the research program. NASA had
+reached an agreement with the Air Force to fly re-
+search missions with a pair of YF-12As and a "YF-
+12C," which was actually an SR-71. These repre-
+sented a far more advanced technology than that of the
+XB-70. In all, the two XB-70s had logged 1 hour and
+48 minutes of Mach 3 flight time. A YF-12 could log
+NASA Photo ECN-792. XB-70A during take-off. this much Mach 3 time in a single flight.
+would be uncomfortable for the passengers, increase The final XB-70 research flight occurred on Feb. 4,
+the pilots' workload, and shorten the structural fatigue 1969. Fulton and Sturmthal made a subsonic structural
+life of the SST. dynamics test and ferry flight. The XB-70 took off
+from Edwards and flew to Wright-Patterson Air Force
+The XB-70 was fitted with two small vanes for the Base, Ohio, where the aircraft was put on display at
+Identically Located Acceleration and Force (ILAF) the Air Force Museum. The first XB-70 made 83
+experiment. The vanes rotated 12 degrees at a rate of flights totaling 160 hours and 16 minutes, while the
+up to 8 cycles per second. This induced a structural second XB-70 logged 46 flights in its brief life,
+vibration in the XB-70 at a known frequency and totaling 92 hours and 22 minutes
+4
