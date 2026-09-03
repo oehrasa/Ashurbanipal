@@ -1,5 +1,5 @@
 {
-  "generated": 1788419767,
+  "generated": 1788420957,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -63,7 +63,11 @@
       "group": "Front",
       "title": "Malakand V1P",
       "file": "Front/Malakand V1P.txt",
-      "url": "https://oehrasa.github.io/Ashurbanipal/Front/Malakand%20V1P.txt"
+      "url": "https://oehrasa.github.io/Ashurbanipal/Front/Malakand%20V1P.txt",
+      "book_title": "The Story of the Malakand Field Force: An Episode of Frontier War",
+      "author": "Churchill, Winston, 1874-1965",
+      "source": "gutenberg",
+      "gutenberg_id": "9404"
     },
     {
       "group": "Machine gun manual H. Douglas",
