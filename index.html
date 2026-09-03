@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ashurbanipal — book index</title>
+<link rel="icon" type="image/x-icon" href="Ashurbanipal_Block.png">
+<meta name="description" content="A small archive of public-domain books and reports.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --clay: #E4D9C0;
+    --clay-deep: #DCCFAE;
+    --ink: #2B2118;
+    --ink-soft: #5B4C3A;
+    --patina: #3F6656;
+    --patina-deep: #2C4A3F;
+    --seal: #A23E2E;
+    --line: rgba(43,33,24,.18);
+    --font-display: 'Fraunces', Georgia, serif;
+    --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { color-scheme: light; }
+
+  body{
+    margin: 0;
+    background: var(--clay);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  main{
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 64px 24px 96px;
+  }
+
+  header.hero h1{
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(2.4rem, 6vw, 3.2rem);
+    letter-spacing: -0.01em;
+    margin: 0 0 14px;
+  }
+
+  header.hero p{
+    margin: 0;
+    max-width: 52ch;
+    color: var(--ink-soft);
+    font-size: 1.02rem;
+  }
+
+  header.hero p strong{
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .wedges{
+    display: flex;
+    gap: 10px;
+    margin: 30px 0 40px;
+  }
+  .wedges span{
+    display: block;
+    width: 0;
+    height: 0;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 14px solid var(--patina);
+    opacity: .85;
+  }
+  .wedges span:nth-child(3n+2){ transform: translateY(4px) scaleX(.8); opacity: .6; }
+  .wedges span:nth-child(3n){ transform: translateY(-2px) scaleX(1.1); }
+
+  .search-row{
+    margin-bottom: 8px;
+  }
+
+  .search-row input{
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 1.5px solid var(--ink-soft);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 1.05rem;
+    padding: 10px 2px;
+    outline: none;
+  }
+  .search-row input::placeholder{ color: var(--ink-soft); opacity: .7; }
+  .search-row input:focus{ border-bottom-color: var(--patina); }
+  .search-row input:focus-visible{ outline: 2px solid var(--patina); outline-offset: 4px; }
+
+  .status-line{
+    margin: 10px 0 36px;
+    font-size: .92rem;
+    color: var(--ink-soft);
+  }
+
+  .shelf{
+    border: 1px solid var(--line);
+    background: var(--clay-deep);
+    padding: 20px 22px;
+    margin-bottom: 18px;
+  }
+
+  .shelf-head{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 10px;
+  }
+
+  .shelf-head h2{
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 1.18rem;
+    margin: 0;
+    line-height: 1.35;
+  }
+
+  .shelf-head .count{
+    flex-shrink: 0;
+    font-size: .88rem;
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+
+  ul.volumes{
+    list-style: none;
+    margin: 0;
+    padding: 12px 0 0;
+    border-top: 1px solid var(--line);
+  }
+
+  ul.volumes li{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 7px 0;
+  }
+
+  ul.volumes li .vol-label{
+    color: var(--ink-soft);
+    font-size: .92rem;
+  }
+
+  ul.volumes a{
+    color: var(--patina-deep);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+  ul.volumes a:hover{ border-bottom-color: currentColor; }
+  ul.volumes a:focus-visible{ outline: 2px solid var(--patina); outline-offset: 3px; }
+
+  .empty, .error{
+    padding: 28px 0;
+    color: var(--ink-soft);
+  }
+  .error{ color: var(--seal); }
+
+  footer{
+    margin-top: 56px;
+    font-size: .85rem;
+    color: var(--ink-soft);
+  }
+  footer a{ color: var(--patina-deep); }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ transition: none !important; }
+  }
+
+  @media (max-width: 520px){
+    main{ padding: 44px 18px 72px; }
+    .shelf-head{ flex-direction: column; gap: 4px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="hero">
+    <h1>Ashurbanipal</h1>
+    <p id="hero-copy">Loading the catalog&hellip;</p>
+  </header>
+
+  <div class="wedges" aria-hidden="true">
+    <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <div class="search-row">
+    <input type="search" id="search" placeholder="Search the shelves by title or author" aria-label="Search the catalog" disabled>
+  </div>
+  <p class="status-line" id="status-line"></p>
+
+  <div id="shelves"></div>
+
+  <footer>
+    Served from <a href="./index.json">index.json</a> — this page and the file feeding it live in the same repo.
+  </footer>
+</main>
+
+<script>
+(function () {
+  const heroCopy = document.getElementById('hero-copy');
+  const statusLine = document.getElementById('status-line');
+  const shelvesEl = document.getElementById('shelves');
+  const searchInput = document.getElementById('search');
+
+  let shelves = []; // [{ group, volumes: [{ title, label, url }] }]
+  let totalVolumes = 0;
+
+  function volumeLabel(title) {
+    const m = title.match(/\sV(\d+)P$/i);
+    if (!m) return title;
+    return { name: title.slice(0, m.index).trim(), num: m[1] };
+  }
+
+  function render(filterText) {
+    const needle = (filterText || '').trim().toLowerCase();
+    shelvesEl.innerHTML = '';
+
+    let visibleVolumes = 0;
+    let visibleShelves = 0;
+
+    shelves.forEach(shelf => {
+      const matchesGroup = shelf.group.toLowerCase().includes(needle);
+      const matchingVolumes = shelf.volumes.filter(v =>
+        matchesGroup || v.title.toLowerCase().includes(needle)
+      );
+      if (needle && matchingVolumes.length === 0) return;
+
+      visibleShelves += 1;
+      visibleVolumes += matchingVolumes.length;
+
+      const section = document.createElement('section');
+      section.className = 'shelf';
+
+      const head = document.createElement('div');
+      head.className = 'shelf-head';
+      const h2 = document.createElement('h2');
+      h2.textContent = shelf.group;
+      const count = document.createElement('span');
+      count.className = 'count';
+      count.textContent = matchingVolumes.length === 1 ? '1 volume' : matchingVolumes.length + ' volumes';
+      head.appendChild(h2);
+      head.appendChild(count);
+      section.appendChild(head);
+
+      const list = document.createElement('ul');
+      list.className = 'volumes';
+      matchingVolumes.forEach(v => {
+        const li = document.createElement('li');
+        const parsed = volumeLabel(v.title);
+        const labelSpan = document.createElement('span');
+        labelSpan.className = 'vol-label';
+        labelSpan.textContent = typeof parsed === 'string' ? '' : 'Volume ' + parsed.num;
+        const a = document.createElement('a');
+        a.href = v.url;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = typeof parsed === 'string' ? parsed : parsed.name;
+        li.appendChild(a);
+        li.appendChild(labelSpan);
+        list.appendChild(li);
+      });
+      section.appendChild(list);
+      shelvesEl.appendChild(section);
+    });
+
+    if (needle && visibleVolumes === 0) {
+      const p = document.createElement('p');
+      p.className = 'empty';
+      p.textContent = 'Nothing on the shelves matches that search.';
+      shelvesEl.appendChild(p);
+    }
+
+    statusLine.textContent = needle
+      ? 'Showing ' + visibleVolumes + ' of ' + totalVolumes + ' volumes.'
+      : '';
+  }
+
+  fetch('./index.json', { cache: 'no-store' })
+    .then(res => {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(data => {
+      const books = Array.isArray(data.books) ? data.books : [];
+      const byGroup = new Map();
+      books.forEach(b => {
+        if (!byGroup.has(b.group)) byGroup.set(b.group, []);
+        byGroup.get(b.group).push(b);
+      });
+      shelves = Array.from(byGroup.entries())
+        .sort((a, b) => a[0].localeCompare(b[0]))
+        .map(([group, volumes]) => ({
+          group,
+          volumes: volumes.slice().sort((a, b) => a.title.localeCompare(b.title, undefined, { numeric: true }))
+        }));
+      totalVolumes = books.length;
+
+      const updated = data.generated
+        ? new Date(data.generated * 1000).toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' })
+        : null;
+
+      heroCopy.innerHTML = 'The library currently holds <strong>' + totalVolumes + ' volume' + (totalVolumes === 1 ? '' : 's') +
+        '</strong> across <strong>' + shelves.length + ' shelf' + (shelves.length === 1 ? '' : 'es') + '</strong>' +
+        (updated ? ', last catalogued ' + updated + '.' : '.');
+
+      searchInput.disabled = false;
+      searchInput.addEventListener('input', () => render(searchInput.value));
+      render('');
+    })
+    .catch(err => {
+      heroCopy.textContent = 'A small archive of public-domain books and reports.';
+      const p = document.createElement('p');
+      p.className = 'error';
+      p.textContent = "The catalog didn't load (" + err.message + "). If you're opening this file straight from disk, view it through the published GitHub Pages link instead — browsers block a local page from reading a local JSON file.";
+      shelvesEl.appendChild(p);
+    });
+})();
+</script>
+</body>
+</html>
