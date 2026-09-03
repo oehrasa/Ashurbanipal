@@ -1,5 +1,5 @@
 {
-  "generated": 1788233353,
+  "generated": 1788419767,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -29,7 +29,11 @@
       "group": "Aircraft and Submarines The Story of the Invention, Development, and Present Day Uses of War's Newest Weapons",
       "title": "Aircraft % Submarine V1P",
       "file": "Aircraft and Submarines The Story of the Invention, Development, and Present Day Uses of War's Newest Weapons/Aircraft % Submarine V1P.txt",
-      "url": "https://oehrasa.github.io/Ashurbanipal/Aircraft%20and%20Submarines%20The%20Story%20of%20the%20Invention%2C%20Development%2C%20and%20Present%20Day%20Uses%20of%20War%27s%20Newest%20Weapons/Aircraft%20%25%20Submarine%20V1P.txt"
+      "url": "https://oehrasa.github.io/Ashurbanipal/Aircraft%20and%20Submarines%20The%20Story%20of%20the%20Invention%2C%20Development%2C%20and%20Present%20Day%20Uses%20of%20War%27s%20Newest%20Weapons/Aircraft%20%25%20Submarine%20V1P.txt",
+      "book_title": "Aircraft and Submarines\r\nThe Story of the Invention, Development, and Present-Day Uses of War's Newest Weapons",
+      "author": "Abbot, Willis J. (Willis John), 1863-1934",
+      "source": "gutenberg",
+      "gutenberg_id": "30047"
     },
     {
       "group": "All in the same boat Earle L. Reynolds",
@@ -71,7 +75,11 @@
       "group": "Marvels of Scientific Invention An Interesting Account in Non Technical Language of the Invention of Guns, Torpedoes, Submarine Mines, Up to Date Smelting, Freezing, Colour Photography, and Many Other Recent Discoveries of Science",
       "title": "Marvels of Scientific V1P",
       "file": "Marvels of Scientific Invention An Interesting Account in Non Technical Language of the Invention of Guns, Torpedoes, Submarine Mines, Up to Date Smelting, Freezing, Colour Photography, and Many Other Recent Discoveries of Science/Marvels of Scientific V1P.txt",
-      "url": "https://oehrasa.github.io/Ashurbanipal/Marvels%20of%20Scientific%20Invention%20An%20Interesting%20Account%20in%20Non%20Technical%20Language%20of%20the%20Invention%20of%20Guns%2C%20Torpedoes%2C%20Submarine%20Mines%2C%20Up%20to%20Date%20Smelting%2C%20Freezing%2C%20Colour%20Photography%2C%20and%20Many%20Other%20Recent%20Discoveries%20of%20Science/Marvels%20of%20Scientific%20V1P.txt"
+      "url": "https://oehrasa.github.io/Ashurbanipal/Marvels%20of%20Scientific%20Invention%20An%20Interesting%20Account%20in%20Non%20Technical%20Language%20of%20the%20Invention%20of%20Guns%2C%20Torpedoes%2C%20Submarine%20Mines%2C%20Up%20to%20Date%20Smelting%2C%20Freezing%2C%20Colour%20Photography%2C%20and%20Many%20Other%20Recent%20Discoveries%20of%20Science/Marvels%20of%20Scientific%20V1P.txt",
+      "book_title": "Marvels of Scientific Invention\r\nAn Interesting Account in Non-Technical Language of the Invention of Guns, Torpedoes, Submarine Mines, Up-to-Date Smelting, Freezing, Colour Photography, and Many Other Recent Discoveries of Science",
+      "author": "Corbin, Thomas W.",
+      "source": "gutenberg",
+      "gutenberg_id": "38045"
     },
     {
       "group": "NetWorld! What People Are Reall David H. Rothman",
@@ -83,13 +91,21 @@
       "group": "The King in Yellow",
       "title": "The King in Yellow V1P",
       "file": "The King in Yellow/The King in Yellow V1P.txt",
-      "url": "https://oehrasa.github.io/Ashurbanipal/The%20King%20in%20Yellow/The%20King%20in%20Yellow%20V1P.txt"
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20King%20in%20Yellow/The%20King%20in%20Yellow%20V1P.txt",
+      "book_title": "The King in Yellow",
+      "author": "Chambers, Robert W. (Robert William), 1865-1933",
+      "source": "gutenberg",
+      "gutenberg_id": "8492"
     },
     {
       "group": "Trinity Site: .: A National Historic Landmark, White Sands Missile Range, New Mexico",
       "title": "Trinity Site V1P",
       "file": "Trinity Site: .: A National Historic Landmark, White Sands Missile Range, New Mexico/Trinity Site V1P.txt",
-      "url": "https://oehrasa.github.io/Ashurbanipal/Trinity%20Site%3A%20.%3A%20A%20National%20Historic%20Landmark%2C%20White%20Sands%20Missile%20Range%2C%20New%20Mexico/Trinity%20Site%20V1P.txt"
+      "url": "https://oehrasa.github.io/Ashurbanipal/Trinity%20Site%3A%20.%3A%20A%20National%20Historic%20Landmark%2C%20White%20Sands%20Missile%20Range%2C%20New%20Mexico/Trinity%20Site%20V1P.txt",
+      "book_title": "Trinity Site: 1945-1995.\r\nA National Historic Landmark, White Sands Missile Range, New Mexico",
+      "author": "White Sands Missile Range (N.M.). Public Affairs Office",
+      "source": "gutenberg",
+      "gutenberg_id": "278"
     },
     {
       "group": "hplovecraft com The Nameless City by H P Lovecraft",
