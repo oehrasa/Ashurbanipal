@@ -1,5 +1,5 @@
 {
-  "generated": 1789281225,
+  "generated": 1789281457,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -110,6 +110,16 @@
       "author": "R. H. (Robert Howlett)",
       "source": "gutenberg",
       "gutenberg_id": "17727"
+    },
+    {
+      "group": "The Story of a Cannoneer Under Stonewall Jackson In Which is Told the Taken by the Rockbridge Artillery in the Army of Northern Virginia",
+      "title": "Cannoneer Stonewall V1P",
+      "file": "The Story of a Cannoneer Under Stonewall Jackson In Which is Told the Taken by the Rockbridge Artillery in the Army of Northern Virginia/Cannoneer Stonewall V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Story%20of%20a%20Cannoneer%20Under%20Stonewall%20Jackson%20In%20Which%20is%20Told%20the%20Taken%20by%20the%20Rockbridge%20Artillery%20in%20the%20Army%20of%20Northern%20Virginia/Cannoneer%20Stonewall%20V1P.txt",
+      "book_title": "The Story of a Cannoneer Under Stonewall Jackson\r\nIn Which is Told the Part Taken by the Rockbridge Artillery in the Army of Northern Virginia",
+      "author": "Moore, Edward Alexander, 1842-",
+      "source": "gutenberg",
+      "gutenberg_id": "22067"
     },
     {
       "group": "Trinity Site: .: A National Historic Landmark, White Sands Missile Range, New Mexico",
