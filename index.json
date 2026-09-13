@@ -1,5 +1,5 @@
 {
-  "generated": 1789280496,
+  "generated": 1789281225,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -100,6 +100,16 @@
       "author": "Chambers, Robert W. (Robert William), 1865-1933",
       "source": "gutenberg",
       "gutenberg_id": "8492"
+    },
+    {
+      "group": "The School of Recreation ( edition) Or a Guide to the Most Ingenious Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science of Defence",
+      "title": "School Recreation V1P",
+      "file": "The School of Recreation ( edition) Or a Guide to the Most Ingenious Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science of Defence/School Recreation V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20School%20of%20Recreation%20%28%20edition%29%20Or%20a%20Guide%20to%20the%20Most%20Ingenious%20Exercises%20of%20Hunting%2C%20Riding%2C%20Racing%2C%20Fireworks%2C%20Military%20Discipline%2C%20the%20Science%20of%20Defence/School%20Recreation%20V1P.txt",
+      "book_title": "The School of Recreation (1696 edition)\r\nOr a Guide to the Most Ingenious Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science of Defence",
+      "author": "R. H. (Robert Howlett)",
+      "source": "gutenberg",
+      "gutenberg_id": "17727"
     },
     {
       "group": "Trinity Site: .: A National Historic Landmark, White Sands Missile Range, New Mexico",
