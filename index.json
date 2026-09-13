@@ -1,5 +1,5 @@
 {
-  "generated": 1789281845,
+  "generated": 1789282151,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -88,6 +88,16 @@
       "author": "Churchill, Winston, 1874-1965",
       "source": "gutenberg",
       "gutenberg_id": "9404"
+    },
+    {
+      "group": "IBM Programming Systems",
+      "title": "IBM Programming V1P",
+      "file": "IBM Programming Systems/IBM Programming V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/IBM%20Programming%20Systems/IBM%20Programming%20V1P.txt",
+      "book_title": "IBM 1401 Programming Systems",
+      "author": "Anonymous",
+      "source": "gutenberg",
+      "gutenberg_id": "27468"
     },
     {
       "group": "Machine gun manual H. Douglas",
