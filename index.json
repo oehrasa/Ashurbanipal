@@ -1,5 +1,5 @@
 {
-  "generated": 1789281457,
+  "generated": 1789281845,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -48,6 +48,16 @@
       "url": "https://oehrasa.github.io/Ashurbanipal/All%20quiet%20on%20the%20Western%20Front%20Erich%20Maria%20Remarque/All%20quiet%20Western%20V1P.txt"
     },
     {
+      "group": "Asbestos, Its production and use With some account of the asbestos mines of Canada",
+      "title": "Asbestos V1P",
+      "file": "Asbestos, Its production and use With some account of the asbestos mines of Canada/Asbestos V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Asbestos%2C%20Its%20production%20and%20use%20With%20some%20account%20of%20the%20asbestos%20mines%20of%20Canada/Asbestos%20V1P.txt",
+      "book_title": "Asbestos, Its production and use\r\nWith some account of the asbestos mines of Canada",
+      "author": "Jones, Robert H.",
+      "source": "gutenberg",
+      "gutenberg_id": "35121"
+    },
+    {
       "group": "Battleships of the Bismarck class Bismarck and Tirpitz Gerhard Koop, Bernard Koop, Klaus Peter Schmolke Open Road Integrated Media, Inc , isbn13 4fa2b388e436121be13d27b665b31c3b Anna’s Archiv",
       "title": "Bismarck & Tirpitz V1P",
       "file": "Battleships of the Bismarck class Bismarck and Tirpitz Gerhard Koop, Bernard Koop, Klaus Peter Schmolke Open Road Integrated Media, Inc , isbn13 4fa2b388e436121be13d27b665b31c3b Anna’s Archiv/Bismarck & Tirpitz V1P.txt",
@@ -58,6 +68,16 @@
       "title": "Ballistic Missile V1P",
       "file": "Committee on an Assessment of Concepts and Systems for U.S. Boos Making Sense of Ballistic Missile Defense An Assessment of Concepts and Systems for U.S. Boost Phase Missile Defense in Compar (, National Academies Pre/Ballistic Missile V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/Committee%20on%20an%20Assessment%20of%20Concepts%20and%20Systems%20for%20U.S.%20Boos%20Making%20Sense%20of%20Ballistic%20Missile%20Defense%20An%20Assessment%20of%20Concepts%20and%20Systems%20for%20U.S.%20Boost%20Phase%20Missile%20Defense%20in%20Compar%20%28%2C%20National%20Academies%20Pre/Ballistic%20Missile%20V1P.txt"
+    },
+    {
+      "group": "Dick and Dr. Dan; Or, the boy monster hunters of the Bad Lands",
+      "title": "Dic V1P",
+      "file": "Dick and Dr. Dan; Or, the boy monster hunters of the Bad Lands/Dic V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Dick%20and%20Dr.%20Dan%3B%20Or%2C%20the%20boy%20monster%20hunters%20of%20the%20Bad%20Lands/Dic%20V1P.txt",
+      "book_title": "Dick and Dr. Dan; Or, the boy monster hunters of the Bad Lands",
+      "author": "Little, C.",
+      "source": "gutenberg",
+      "gutenberg_id": "68698"
     },
     {
       "group": "Front",
