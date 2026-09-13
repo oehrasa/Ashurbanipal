@@ -1,5 +1,5 @@
 {
-  "generated": 1788422418,
+  "generated": 1789280496,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -122,6 +122,12 @@
       "title": "Amelia Earhart V1P",
       "file": "hrs., min Amelia Earhart/Amelia Earhart V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/hrs.%2C%20min%20Amelia%20Earhart/Amelia%20Earhart%20V1P.txt"
+    },
+    {
+      "group": "oehrasa dreams",
+      "title": "oehrasa-dreams V1P",
+      "file": "oehrasa dreams/oehrasa-dreams V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/oehrasa%20dreams/oehrasa-dreams%20V1P.txt"
     }
   ]
 }
