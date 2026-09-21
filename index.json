@@ -1,5 +1,5 @@
 {
-  "generated": 1789282151,
+  "generated": 1789998668,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -160,6 +160,16 @@
       "author": "White Sands Missile Range (N.M.). Public Affairs Office",
       "source": "gutenberg",
       "gutenberg_id": "278"
+    },
+    {
+      "group": "Who Cares? A Story of Adolescence",
+      "title": "Adolescence Story V1P",
+      "file": "Who Cares? A Story of Adolescence/Adolescence Story V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Who%20Cares%3F%20A%20Story%20of%20Adolescence/Adolescence%20Story%20V1P.txt",
+      "book_title": "Who Cares? A Story of Adolescence",
+      "author": "Hamilton, Cosmo, 1872?-1942",
+      "source": "gutenberg",
+      "gutenberg_id": "3641"
     },
     {
       "group": "hplovecraft com The Nameless City by H P Lovecraft",
