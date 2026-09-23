@@ -1,5 +1,5 @@
 {
-  "generated": 1790159255,
+  "generated": 1790159487,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -160,6 +160,16 @@
       "author": "R. H. (Robert Howlett)",
       "source": "gutenberg",
       "gutenberg_id": "17727"
+    },
+    {
+      "group": "The Story of General Pershing",
+      "title": "General Pershing V1P",
+      "file": "The Story of General Pershing/General Pershing V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Story%20of%20General%20Pershing/General%20Pershing%20V1P.txt",
+      "book_title": "The Story of General Pershing",
+      "author": "Tomlinson, Everett T. (Everett Titsworth), 1859-1931",
+      "source": "gutenberg",
+      "gutenberg_id": "31914"
     },
     {
       "group": "The Story of a Cannoneer Under Stonewall Jackson In Which is Told the Taken by the Rockbridge Artillery in the Army of Northern Virginia",
