@@ -1,5 +1,5 @@
 {
-  "generated": 1790153200,
+  "generated": 1790159255,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -130,6 +130,16 @@
       "author": "Hardy, Thomas, 1840-1928",
       "source": "gutenberg",
       "gutenberg_id": "110"
+    },
+    {
+      "group": "The Basket of Flowers",
+      "title": "Basket of Flowers V1P",
+      "file": "The Basket of Flowers/Basket of Flowers V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Basket%20of%20Flowers/Basket%20of%20Flowers%20V1P.txt",
+      "book_title": "The Basket of Flowers",
+      "author": "Schmid, Christoph von, 1768-1854; Charlton, Watson [Illustrator]; Evans, W. E. [Illustrator]",
+      "source": "gutenberg",
+      "gutenberg_id": "24160"
     },
     {
       "group": "The King in Yellow",
