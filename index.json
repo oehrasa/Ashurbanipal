@@ -1,5 +1,5 @@
 {
-  "generated": 1789998668,
+  "generated": 1790153200,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -122,6 +122,16 @@
       "url": "https://oehrasa.github.io/Ashurbanipal/NetWorld%21%20What%20People%20Are%20Reall%20David%20H.%20Rothman/NetWorld%21%20What%20People%20V1P.txt"
     },
     {
+      "group": "Tess of the d'Urbervilles: A Pure Woman",
+      "title": "A Pure Woman V1P",
+      "file": "Tess of the d'Urbervilles: A Pure Woman/A Pure Woman V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Tess%20of%20the%20d%27Urbervilles%3A%20A%20Pure%20Woman/A%20Pure%20Woman%20V1P.txt",
+      "book_title": "Tess of the d'Urbervilles: A Pure Woman",
+      "author": "Hardy, Thomas, 1840-1928",
+      "source": "gutenberg",
+      "gutenberg_id": "110"
+    },
+    {
       "group": "The King in Yellow",
       "title": "The King in Yellow V1P",
       "file": "The King in Yellow/The King in Yellow V1P.txt",
@@ -150,6 +160,16 @@
       "author": "Moore, Edward Alexander, 1842-",
       "source": "gutenberg",
       "gutenberg_id": "22067"
+    },
+    {
+      "group": "The aircraft boys of Lakeport",
+      "title": "aircraft boys V1P",
+      "file": "The aircraft boys of Lakeport/aircraft boys V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20aircraft%20boys%20of%20Lakeport/aircraft%20boys%20V1P.txt",
+      "book_title": "The aircraft boys of Lakeport",
+      "author": "Stratemeyer, Edward, 1862-1930; Boehm, H. Richard, 1871-1914 [Illustrator]",
+      "source": "gutenberg",
+      "gutenberg_id": "77538"
     },
     {
       "group": "Trinity Site: .: A National Historic Landmark, White Sands Missile Range, New Mexico",
