@@ -1,5 +1,5 @@
 {
-  "generated": 1790159487,
+  "generated": 1790159893,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -140,6 +140,16 @@
       "author": "Schmid, Christoph von, 1768-1854; Charlton, Watson [Illustrator]; Evans, W. E. [Illustrator]",
       "source": "gutenberg",
       "gutenberg_id": "24160"
+    },
+    {
+      "group": "The CIA World Factbook",
+      "title": "CIA World Factbook V1P",
+      "file": "The CIA World Factbook/CIA World Factbook V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20CIA%20World%20Factbook/CIA%20World%20Factbook%20V1P.txt",
+      "book_title": "The 1997 CIA World Factbook",
+      "author": "United States. Central Intelligence Agency",
+      "source": "gutenberg",
+      "gutenberg_id": "1662"
     },
     {
       "group": "The King in Yellow",
