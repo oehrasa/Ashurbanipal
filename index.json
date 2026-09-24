@@ -1,5 +1,5 @@
 {
-  "generated": 1790159893,
+  "generated": 1790235709,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -190,6 +190,16 @@
       "author": "Moore, Edward Alexander, 1842-",
       "source": "gutenberg",
       "gutenberg_id": "22067"
+    },
+    {
+      "group": "The Wiradyuri and Other Languages of New South Wales",
+      "title": "Wiradyuri Languages V1P",
+      "file": "The Wiradyuri and Other Languages of New South Wales/Wiradyuri Languages V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Wiradyuri%20and%20Other%20Languages%20of%20New%20South%20Wales/Wiradyuri%20Languages%20V1P.txt",
+      "book_title": "The Wiradyuri and Other Languages of New South Wales",
+      "author": "Mathews, R. H. (Robert Hamilton), 1841-1918",
+      "source": "gutenberg",
+      "gutenberg_id": "18978"
     },
     {
       "group": "The aircraft boys of Lakeport",
