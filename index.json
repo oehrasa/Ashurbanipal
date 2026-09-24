@@ -1,5 +1,5 @@
 {
-  "generated": 1790235709,
+  "generated": 1790292986,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -150,6 +150,16 @@
       "author": "United States. Central Intelligence Agency",
       "source": "gutenberg",
       "gutenberg_id": "1662"
+    },
+    {
+      "group": "The Gerrard Street Mystery and Other Weird Tales",
+      "title": "Gerrard Street V1P",
+      "file": "The Gerrard Street Mystery and Other Weird Tales/Gerrard Street V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Gerrard%20Street%20Mystery%20and%20Other%20Weird%20Tales/Gerrard%20Street%20V1P.txt",
+      "book_title": "The Gerrard Street Mystery and Other Weird Tales",
+      "author": "Dent, John Charles, 1841-1888",
+      "source": "gutenberg",
+      "gutenberg_id": "6917"
     },
     {
       "group": "The King in Yellow",
