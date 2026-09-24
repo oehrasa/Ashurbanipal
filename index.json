@@ -1,5 +1,5 @@
 {
-  "generated": 1790292986,
+  "generated": 1790293074,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -120,6 +120,16 @@
       "title": "NetWorld! What People V1P",
       "file": "NetWorld! What People Are Reall David H. Rothman/NetWorld! What People V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/NetWorld%21%20What%20People%20Are%20Reall%20David%20H.%20Rothman/NetWorld%21%20What%20People%20V1P.txt"
+    },
+    {
+      "group": "Our Nuclear Future: Facts, Dangers and Opportunities",
+      "title": "Our Nuclear Future V1P",
+      "file": "Our Nuclear Future: Facts, Dangers and Opportunities/Our Nuclear Future V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Our%20Nuclear%20Future%3A%20Facts%2C%20Dangers%20and%20Opportunities/Our%20Nuclear%20Future%20V1P.txt",
+      "book_title": "Our Nuclear Future: Facts, Dangers and Opportunities",
+      "author": "Teller, Edward, 1908-2003; Latter, Albert L.",
+      "source": "gutenberg",
+      "gutenberg_id": "66408"
     },
     {
       "group": "Tess of the d'Urbervilles: A Pure Woman",
