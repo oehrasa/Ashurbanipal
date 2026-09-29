@@ -1,5 +1,5 @@
 {
-  "generated": 1790293074,
+  "generated": 1790644305,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -132,6 +132,16 @@
       "gutenberg_id": "66408"
     },
     {
+      "group": "Rockets, Missiles, and Spacecraft of the National Air and Space Museum, Smithsonian Institution",
+      "title": "National Air & Space V1P",
+      "file": "Rockets, Missiles, and Spacecraft of the National Air and Space Museum, Smithsonian Institution/National Air & Space V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Rockets%2C%20Missiles%2C%20and%20Spacecraft%20of%20the%20National%20Air%20and%20Space%20Museum%2C%20Smithsonian%20Institution/National%20Air%20%26%20Space%20V1P.txt",
+      "book_title": "Rockets, Missiles, and Spacecraft of the National Air and Space Museum, Smithsonian Institution",
+      "author": "Murphy, Lynne C.; Collins, Michael, 1930-2021 [Author of introduction, etc.]",
+      "source": "gutenberg",
+      "gutenberg_id": "57421"
+    },
+    {
       "group": "Tess of the d'Urbervilles: A Pure Woman",
       "title": "A Pure Woman V1P",
       "file": "Tess of the d'Urbervilles: A Pure Woman/A Pure Woman V1P.txt",
@@ -160,6 +170,16 @@
       "author": "United States. Central Intelligence Agency",
       "source": "gutenberg",
       "gutenberg_id": "1662"
+    },
+    {
+      "group": "The Figure In The Mirage",
+      "title": "Figure In The Mirage V1P",
+      "file": "The Figure In The Mirage/Figure In The Mirage V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Figure%20In%20The%20Mirage/Figure%20In%20The%20Mirage%20V1P.txt",
+      "book_title": "The Figure In The Mirage\n1905",
+      "author": "Hichens, Robert, 1864-1950",
+      "source": "gutenberg",
+      "gutenberg_id": "23412"
     },
     {
       "group": "The Gerrard Street Mystery and Other Weird Tales",
