@@ -1,5 +1,5 @@
 {
-  "generated": 1790644305,
+  "generated": 1790663827,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -120,6 +120,16 @@
       "title": "NetWorld! What People V1P",
       "file": "NetWorld! What People Are Reall David H. Rothman/NetWorld! What People V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/NetWorld%21%20What%20People%20Are%20Reall%20David%20H.%20Rothman/NetWorld%21%20What%20People%20V1P.txt"
+    },
+    {
+      "group": "Operation Earthworm",
+      "title": "Operation Earthworm V1P",
+      "file": "Operation Earthworm/Operation Earthworm V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Operation%20Earthworm/Operation%20Earthworm%20V1P.txt",
+      "book_title": "Operation Earthworm",
+      "author": "Archibald, Joe, 1898-1986",
+      "source": "gutenberg",
+      "gutenberg_id": "29303"
     },
     {
       "group": "Our Nuclear Future: Facts, Dangers and Opportunities",
