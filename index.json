@@ -1,5 +1,5 @@
 {
-  "generated": 1790738805,
+  "generated": 1790739162,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -300,6 +300,16 @@
       "author": "White Sands Missile Range (N.M.). Public Affairs Office",
       "source": "gutenberg",
       "gutenberg_id": "278"
+    },
+    {
+      "group": "Varney the vampyre; or, the feast of blood",
+      "title": "Varney the vampyre V1P",
+      "file": "Varney the vampyre; or, the feast of blood/Varney the vampyre V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Varney%20the%20vampyre%3B%20or%2C%20the%20feast%20of%20blood/Varney%20the%20vampyre%20V1P.txt",
+      "book_title": "Varney the vampyre; or, the feast of blood",
+      "author": "Prest, Thomas Peckett, 1810-1859; Rymer, James Malcolm, 1814?-1884",
+      "source": "gutenberg",
+      "gutenberg_id": "14833"
     },
     {
       "group": "Who Cares? A Story of Adolescence",
