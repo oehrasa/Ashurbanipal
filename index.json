@@ -1,5 +1,5 @@
 {
-  "generated": 1790737280,
+  "generated": 1790738805,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -78,6 +78,16 @@
       "author": "Little, C.",
       "source": "gutenberg",
       "gutenberg_id": "68698"
+    },
+    {
+      "group": "Flying Machines: Construction and Operation A Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship",
+      "title": "Flying Machines V1P",
+      "file": "Flying Machines: Construction and Operation A Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship/Flying Machines V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Flying%20Machines%3A%20Construction%20and%20Operation%20A%20Practical%20Book%20Which%20Shows%2C%20in%20Illustrations%2C%20Working%20Plans%20and%20Text%2C%20How%20to%20Build%20and%20Navigate%20the%20Modern%20Airship/Flying%20Machines%20V1P.txt",
+      "book_title": "Flying Machines: Construction and Operation\r\nA Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship",
+      "author": "Jackman, William J. (William James), 1850-; Chanute, Octave, 1832-1910; Russell, Thomas Herbert, 1862-1947",
+      "source": "gutenberg",
+      "gutenberg_id": "907"
     },
     {
       "group": "Front",
