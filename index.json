@@ -1,5 +1,5 @@
 {
-  "generated": 1790736492,
+  "generated": 1790737280,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -210,6 +210,16 @@
       "author": "Chambers, Robert W. (Robert William), 1865-1933",
       "source": "gutenberg",
       "gutenberg_id": "8492"
+    },
+    {
+      "group": "The Radio Girls on the program",
+      "title": "Radio Girls on program V1P",
+      "file": "The Radio Girls on the program/Radio Girls on program V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Radio%20Girls%20on%20the%20program/Radio%20Girls%20on%20program%20V1P.txt",
+      "book_title": "The Radio Girls on the program",
+      "author": "Penrose, Margaret; Gooch, Thelma, 1895-1973 [Illustrator]",
+      "source": "gutenberg",
+      "gutenberg_id": "70429"
     },
     {
       "group": "The School of Recreation ( edition) Or a Guide to the Most Ingenious Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science of Defence",
