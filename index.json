@@ -1,5 +1,5 @@
 {
-  "generated": 1790663827,
+  "generated": 1790736492,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -260,6 +260,16 @@
       "author": "Stratemeyer, Edward, 1862-1930; Boehm, H. Richard, 1871-1914 [Illustrator]",
       "source": "gutenberg",
       "gutenberg_id": "77538"
+    },
+    {
+      "group": "Tiger by the Tail",
+      "title": "Tiger by the Tail V1P",
+      "file": "Tiger by the Tail/Tiger by the Tail V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Tiger%20by%20the%20Tail/Tiger%20by%20the%20Tail%20V1P.txt",
+      "book_title": "Tiger by the Tail",
+      "author": "Anderson, Poul, 1926-2001; Vestal, Herman B., 1916-2007 [Illustrator]",
+      "source": "gutenberg",
+      "gutenberg_id": "63944"
     },
     {
       "group": "Trinity Site: .: A National Historic Landmark, White Sands Missile Range, New Mexico",
