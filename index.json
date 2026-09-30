@@ -1,5 +1,5 @@
 {
-  "generated": 1790739162,
+  "generated": 1790739274,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -98,6 +98,16 @@
       "author": "Churchill, Winston, 1874-1965",
       "source": "gutenberg",
       "gutenberg_id": "9404"
+    },
+    {
+      "group": "Gunpowder and Ammunition, Their Origin and Progress",
+      "title": "Gunpowder & Amunition V1P",
+      "file": "Gunpowder and Ammunition, Their Origin and Progress/Gunpowder & Amunition V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Gunpowder%20and%20Ammunition%2C%20Their%20Origin%20and%20Progress/Gunpowder%20%26%20Amunition%20V1P.txt",
+      "book_title": "Gunpowder and Ammunition, Their Origin and Progress",
+      "author": "Hime, H. W. L. (Henry William Lovett), 1840-",
+      "source": "gutenberg",
+      "gutenberg_id": "54411"
     },
     {
       "group": "IBM Programming Systems",
