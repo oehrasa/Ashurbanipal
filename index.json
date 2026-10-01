@@ -1,5 +1,5 @@
 {
-  "generated": 1790823682,
+  "generated": 1790848905,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -420,6 +420,16 @@
       "author": "Hamilton, Cosmo, 1872?-1942",
       "source": "gutenberg",
       "gutenberg_id": "3641"
+    },
+    {
+      "group": "Youth and Sex: Dangers and Safeguards for Girls and Boys",
+      "title": "Youth and Sex V1P",
+      "file": "Youth and Sex: Dangers and Safeguards for Girls and Boys/Youth and Sex V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Youth%20and%20Sex%3A%20Dangers%20and%20Safeguards%20for%20Girls%20and%20Boys/Youth%20and%20Sex%20V1P.txt",
+      "book_title": "Youth and Sex: Dangers and Safeguards for Girls and Boys",
+      "author": "Scharlieb, Mary, 1845-1930; Sibly, Frederick Arthur",
+      "source": "gutenberg",
+      "gutenberg_id": "13722"
     },
     {
       "group": "hplovecraft com The Nameless City by H P Lovecraft",
