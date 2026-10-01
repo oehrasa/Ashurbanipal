@@ -1,5 +1,5 @@
 {
-  "generated": 1790739274,
+  "generated": 1790817562,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -120,6 +120,16 @@
       "gutenberg_id": "27468"
     },
     {
+      "group": "Judgments of the Court of Appeal of New Zealand on Proceedings to Review Aspects of the Report of the Royal Commission of Inquiry into the Mount Erebus Aircraft Disaster C.A. ",
+      "title": "E. Aircraft Disaster V1P",
+      "file": "Judgments of the Court of Appeal of New Zealand on Proceedings to Review Aspects of the Report of the Royal Commission of Inquiry into the Mount Erebus Aircraft Disaster C.A. /E. Aircraft Disaster V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Judgments%20of%20the%20Court%20of%20Appeal%20of%20New%20Zealand%20on%20Proceedings%20to%20Review%20Aspects%20of%20the%20Report%20of%20the%20Royal%20Commission%20of%20Inquiry%20into%20the%20Mount%20Erebus%20Aircraft%20Disaster%20C.A.%20/E.%20Aircraft%20Disaster%20V1P.txt",
+      "book_title": "Judgments of the Court of Appeal of New Zealand on Proceedings to Review Aspects of the Report of the Royal Commission of Inquiry into the Mount Erebus Aircraft Disaster\nC.A. 95/81",
+      "author": "New Zealand. Court of Appeal",
+      "source": "gutenberg",
+      "gutenberg_id": "16130"
+    },
+    {
       "group": "Machine gun manual H. Douglas",
       "title": "Machine gun manual V1P",
       "file": "Machine gun manual H. Douglas/Machine gun manual V1P.txt",
@@ -140,6 +150,16 @@
       "title": "NetWorld! What People V1P",
       "file": "NetWorld! What People Are Reall David H. Rothman/NetWorld! What People V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/NetWorld%21%20What%20People%20Are%20Reall%20David%20H.%20Rothman/NetWorld%21%20What%20People%20V1P.txt"
+    },
+    {
+      "group": "Northern Nut Growers Association Report of the Proceedings at the Twelfth Annual Meeting Lancaster, Pennsylvania, October and ,",
+      "title": "Northern Nut Growers V1P",
+      "file": "Northern Nut Growers Association Report of the Proceedings at the Twelfth Annual Meeting Lancaster, Pennsylvania, October and ,/Northern Nut Growers V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Northern%20Nut%20Growers%20Association%20Report%20of%20the%20Proceedings%20at%20the%20Twelfth%20Annual%20Meeting%20Lancaster%2C%20Pennsylvania%2C%20October%20and%20%2C/Northern%20Nut%20Growers%20V1P.txt",
+      "book_title": "Northern Nut Growers Association Report of the Proceedings at the Twelfth Annual Meeting\r\nLancaster, Pennsylvania, October 6 and 7, 1921",
+      "author": "Northern Nut Growers Association [Editor]",
+      "source": "gutenberg",
+      "gutenberg_id": "19728"
     },
     {
       "group": "Operation Earthworm",
@@ -170,6 +190,16 @@
       "author": "Murphy, Lynne C.; Collins, Michael, 1930-2021 [Author of introduction, etc.]",
       "source": "gutenberg",
       "gutenberg_id": "57421"
+    },
+    {
+      "group": "Sunshine and snow",
+      "title": "Sunshine and snow V1P",
+      "file": "Sunshine and snow/Sunshine and snow V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Sunshine%20and%20snow/Sunshine%20and%20snow%20V1P.txt",
+      "book_title": "Sunshine and snow",
+      "author": "Bindloss, Harold, 1866-1945",
+      "source": "gutenberg",
+      "gutenberg_id": "69277"
     },
     {
       "group": "Tess of the d'Urbervilles: A Pure Woman",
