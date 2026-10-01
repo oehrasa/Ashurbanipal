@@ -1,5 +1,5 @@
 {
-  "generated": 1790820006,
+  "generated": 1790823557,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -90,6 +90,16 @@
       "gutenberg_id": "68698"
     },
     {
+      "group": "Esther Waters",
+      "title": "Esther Waters V1P",
+      "file": "Esther Waters/Esther Waters V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Esther%20Waters/Esther%20Waters%20V1P.txt",
+      "book_title": "Esther Waters",
+      "author": "Moore, George, 1852-1933",
+      "source": "gutenberg",
+      "gutenberg_id": "8157"
+    },
+    {
       "group": "Flying Machines: Construction and Operation A Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship",
       "title": "Flying Machines V1P",
       "file": "Flying Machines: Construction and Operation A Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship/Flying Machines V1P.txt",
@@ -118,6 +128,16 @@
       "author": "Hime, H. W. L. (Henry William Lovett), 1840-",
       "source": "gutenberg",
       "gutenberg_id": "54411"
+    },
+    {
+      "group": "How Sammy Went to Coral Land",
+      "title": "Sammy Went to Coral V1P",
+      "file": "How Sammy Went to Coral Land/Sammy Went to Coral V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/How%20Sammy%20Went%20to%20Coral%20Land/Sammy%20Went%20to%20Coral%20V1P.txt",
+      "book_title": "How Sammy Went to Coral-Land",
+      "author": "Atwater, Emily Paret, 1873-1951",
+      "source": "gutenberg",
+      "gutenberg_id": "7460"
     },
     {
       "group": "IBM Programming Systems",
@@ -280,6 +300,16 @@
       "author": "Chambers, Robert W. (Robert William), 1865-1933",
       "source": "gutenberg",
       "gutenberg_id": "8492"
+    },
+    {
+      "group": "The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar",
+      "title": "Motor Girls on Water V1P",
+      "file": "The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar/Motor Girls on Water V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Motor%20Girls%20on%20Waters%20Blue%3B%20Or%2C%20the%20Strange%20Cruise%20of%20the%20Tartar/Motor%20Girls%20on%20Water%20V1P.txt",
+      "book_title": "The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar",
+      "author": "Penrose, Margaret",
+      "source": "gutenberg",
+      "gutenberg_id": "7210"
     },
     {
       "group": "The Radio Girls on the program",
