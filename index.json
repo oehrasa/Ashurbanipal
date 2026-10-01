@@ -1,5 +1,5 @@
 {
-  "generated": 1790823557,
+  "generated": 1790823682,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -300,6 +300,16 @@
       "author": "Chambers, Robert W. (Robert William), 1865-1933",
       "source": "gutenberg",
       "gutenberg_id": "8492"
+    },
+    {
+      "group": "The Merry Thought: or the Glass Window and Bog House Miscellany. Parts , and",
+      "title": "The Merry Thought V1P",
+      "file": "The Merry Thought: or the Glass Window and Bog House Miscellany. Parts , and/The Merry Thought V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Merry%20Thought%3A%20or%20the%20Glass%20Window%20and%20Bog%20House%20Miscellany.%20Parts%20%2C%20and/The%20Merry%20Thought%20V1P.txt",
+      "book_title": "The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4",
+      "author": "Hurlothrumbo; Novak, Maximillian E., 1930- [Commentator]",
+      "source": "gutenberg",
+      "gutenberg_id": "20535"
     },
     {
       "group": "The Motor Girls on Waters Blue; Or, the Strange Cruise of the Tartar",
