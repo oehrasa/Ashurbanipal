@@ -1,5 +1,5 @@
 {
-  "generated": 1790817562,
+  "generated": 1790820006,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -12,6 +12,16 @@
       "title": "Continuation Voyage V1P",
       "file": "A Continuation of a Voyage to N William Dampier/Continuation Voyage V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/A%20Continuation%20of%20a%20Voyage%20to%20N%20William%20Dampier/Continuation%20Voyage%20V1P.txt"
+    },
+    {
+      "group": "A Day in Old Athens; a Picture of Athenian Life",
+      "title": "A Day in Old Athens V1P",
+      "file": "A Day in Old Athens; a Picture of Athenian Life/A Day in Old Athens V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/A%20Day%20in%20Old%20Athens%3B%20a%20Picture%20of%20Athenian%20Life/A%20Day%20in%20Old%20Athens%20V1P.txt",
+      "book_title": "A Day in Old Athens; a Picture of Athenian Life",
+      "author": "Davis, William Stearns, 1877-1930",
+      "source": "gutenberg",
+      "gutenberg_id": "4716"
     },
     {
       "group": "A guide to the Egyptian collect British Museum. Department of E",
@@ -200,6 +210,16 @@
       "author": "Bindloss, Harold, 1866-1945",
       "source": "gutenberg",
       "gutenberg_id": "69277"
+    },
+    {
+      "group": "Telling Fortunes By Tea Leaves: How to Read Your Fate in a Teacup",
+      "title": "rtunes By Tea V1P",
+      "file": "Telling Fortunes By Tea Leaves: How to Read Your Fate in a Teacup/rtunes By Tea V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Telling%20Fortunes%20By%20Tea%20Leaves%3A%20How%20to%20Read%20Your%20Fate%20in%20a%20Teacup/rtunes%20By%20Tea%20V1P.txt",
+      "book_title": "Telling Fortunes By Tea Leaves: How to Read Your Fate in a Teacup",
+      "author": "Kent, Cicely",
+      "source": "gutenberg",
+      "gutenberg_id": "6964"
     },
     {
       "group": "Tess of the d'Urbervilles: A Pure Woman",
