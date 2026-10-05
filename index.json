@@ -1,5 +1,5 @@
 {
-  "generated": 1790848905,
+  "generated": 1791186747,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -220,6 +220,16 @@
       "author": "Murphy, Lynne C.; Collins, Michael, 1930-2021 [Author of introduction, etc.]",
       "source": "gutenberg",
       "gutenberg_id": "57421"
+    },
+    {
+      "group": "Russia on the Black Sea and Sea of Azof",
+      "title": "the Black Sea V1P",
+      "file": "Russia on the Black Sea and Sea of Azof/the Black Sea V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Russia%20on%20the%20Black%20Sea%20and%20Sea%20of%20Azof/the%20Black%20Sea%20V1P.txt",
+      "book_title": "Russia on the Black Sea and Sea of Azof",
+      "author": "Seymour, Henry, 1820-1877",
+      "source": "gutenberg",
+      "gutenberg_id": "77506"
     },
     {
       "group": "Sunshine and snow",
