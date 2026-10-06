@@ -1,5 +1,5 @@
 {
-  "generated": 1791262638,
+  "generated": 1791262798,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -340,6 +340,16 @@
       "author": "Penrose, Margaret",
       "source": "gutenberg",
       "gutenberg_id": "7210"
+    },
+    {
+      "group": "The Nuclear Ship Savannah First Atomic Merchant Ship, One of the World's Safest Ships",
+      "title": "The Nuclear Ship V1P",
+      "file": "The Nuclear Ship Savannah First Atomic Merchant Ship, One of the World's Safest Ships/The Nuclear Ship V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Nuclear%20Ship%20Savannah%20First%20Atomic%20Merchant%20Ship%2C%20One%20of%20the%20World%27s%20Safest%20Ships/The%20Nuclear%20Ship%20V1P.txt",
+      "book_title": "The Nuclear Ship Savannah\r\nFirst Atomic Merchant Ship, One of the World's Safest Ships",
+      "author": "United States. Department of Commerce; United States. Maritime Administration; U.S. Atomic Energy Commission",
+      "source": "gutenberg",
+      "gutenberg_id": "63584"
     },
     {
       "group": "The Radio Girls on the program",
