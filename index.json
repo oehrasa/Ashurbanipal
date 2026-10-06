@@ -1,5 +1,5 @@
 {
-  "generated": 1791186747,
+  "generated": 1791262638,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -138,6 +138,16 @@
       "author": "Atwater, Emily Paret, 1873-1951",
       "source": "gutenberg",
       "gutenberg_id": "7460"
+    },
+    {
+      "group": "I, the vampire",
+      "title": "I, the vampire V1P",
+      "file": "I, the vampire/I, the vampire V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/I%2C%20the%20vampire/I%2C%20the%20vampire%20V1P.txt",
+      "book_title": "I, the vampire",
+      "author": "Kuttner, Henry, 1915-1958; Finlay, Virgil, 1914-1971 [Illustrator]; Mooney, Jim (James Noel), 1919-2008 [Illustrator]",
+      "source": "gutenberg",
+      "gutenberg_id": "79638"
     },
     {
       "group": "IBM Programming Systems",
@@ -458,6 +468,16 @@
       "title": "oehrasa-dreams V1P",
       "file": "oehrasa dreams/oehrasa-dreams V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/oehrasa%20dreams/oehrasa-dreams%20V1P.txt"
+    },
+    {
+      "group": "Όραμα και Μεταμόρφωση : Μια εισαγωγή στο Ευγενές Οκταπλό Μονοπάτι του Βούδδα",
+      "title": "Μια εισαγωγή στο V1P",
+      "file": "Όραμα και Μεταμόρφωση : Μια εισαγωγή στο Ευγενές Οκταπλό Μονοπάτι του Βούδδα/Μια εισαγωγή στο V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/%CE%8C%CF%81%CE%B1%CE%BC%CE%B1%20%CE%BA%CE%B1%CE%B9%20%CE%9C%CE%B5%CF%84%CE%B1%CE%BC%CF%8C%CF%81%CF%86%CF%89%CF%83%CE%B7%20%3A%20%CE%9C%CE%B9%CE%B1%20%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CE%95%CF%85%CE%B3%CE%B5%CE%BD%CE%AD%CF%82%20%CE%9F%CE%BA%CF%84%CE%B1%CF%80%CE%BB%CF%8C%20%CE%9C%CE%BF%CE%BD%CE%BF%CF%80%CE%AC%CF%84%CE%B9%20%CF%84%CE%BF%CF%85%20%CE%92%CE%BF%CF%8D%CE%B4%CE%B4%CE%B1/%CE%9C%CE%B9%CE%B1%20%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20V1P.txt",
+      "book_title": "Όραμα και Μεταμόρφωση : Μια εισαγωγή στο Ευγενές Οκταπλό Μονοπάτι του Βούδδα",
+      "author": "Sangharakshita, Bhikshu, 1925-; Doikas, Spiros [Translator]",
+      "source": "gutenberg",
+      "gutenberg_id": "4100"
     }
   ]
 }
