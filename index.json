@@ -1,5 +1,5 @@
 {
-  "generated": 1791433833,
+  "generated": 1791433935,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -128,6 +128,16 @@
       "author": "Hime, H. W. L. (Henry William Lovett), 1840-",
       "source": "gutenberg",
       "gutenberg_id": "54411"
+    },
+    {
+      "group": "Home Life in Tokyo",
+      "title": "Home Life in Tokyo V1P",
+      "file": "Home Life in Tokyo/Home Life in Tokyo V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Home%20Life%20in%20Tokyo/Home%20Life%20in%20Tokyo%20V1P.txt",
+      "book_title": "Home Life in Tokyo",
+      "author": "Inouye, Jukichi, 1862-1929",
+      "source": "gutenberg",
+      "gutenberg_id": "65870"
     },
     {
       "group": "How Sammy Went to Coral Land",
