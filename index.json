@@ -1,5 +1,5 @@
 {
-  "generated": 1791430688,
+  "generated": 1791433833,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -330,6 +330,16 @@
       "author": "Chambers, Robert W. (Robert William), 1865-1933",
       "source": "gutenberg",
       "gutenberg_id": "8492"
+    },
+    {
+      "group": "The Life of the Caterpillar",
+      "title": "Life of Caterpillar V1P",
+      "file": "The Life of the Caterpillar/Life of Caterpillar V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Life%20of%20the%20Caterpillar/Life%20of%20Caterpillar%20V1P.txt",
+      "book_title": "The Life of the Caterpillar",
+      "author": "Fabre, Jean-Henri, 1823-1915; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+      "source": "gutenberg",
+      "gutenberg_id": "66762"
     },
     {
       "group": "The Merry Thought: or the Glass Window and Bog House Miscellany. Parts , and",
