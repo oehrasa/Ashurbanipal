@@ -1,5 +1,5 @@
 {
-  "generated": 1791262798,
+  "generated": 1791430688,
   "books": [
     {
       "group": "121584main fs dfrc",
@@ -168,6 +168,16 @@
       "author": "New Zealand. Court of Appeal",
       "source": "gutenberg",
       "gutenberg_id": "16130"
+    },
+    {
+      "group": "Little Bear at Work and at Play",
+      "title": "Little bear at Work V1P",
+      "file": "Little Bear at Work and at Play/Little bear at Work V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Little%20Bear%20at%20Work%20and%20at%20Play/Little%20bear%20at%20Work%20V1P.txt",
+      "book_title": "Little Bear at Work and at Play",
+      "author": "Fox, Frances Margaret, 1870-1959",
+      "source": "gutenberg",
+      "gutenberg_id": "7764"
     },
     {
       "group": "Machine gun manual H. Douglas",
