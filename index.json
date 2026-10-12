@@ -1,5 +1,5 @@
 {
-  "generated": 1791779904,
+  "generated": 1791781102,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -100,6 +100,26 @@
       "url": "https://oehrasa.github.io/Ashurbanipal/Committee%20on%20an%20Assessment%20of%20Concepts%20and%20Systems%20for%20U.S.%20Boos%20Making%20Sense%20of%20Ballistic%20Missile%20Defense%20An%20Assessment%20of%20Concepts%20and%20Systems%20for%20U.S.%20Boost%20Phase%20Missile%20Defense%20in%20Compar%20%28%2C%20National%20Academies%20Pre/Ballistic%20Missile%20V1P.txt"
     },
     {
+      "group": "Computers on the Farm: Farm Uses for Computers, How to Select Software and Hardware, and Online Information Sources in Agriculture",
+      "title": "Computers on Farm: V1P",
+      "file": "Computers on the Farm: Farm Uses for Computers, How to Select Software and Hardware, and Online Information Sources in Agriculture/Computers on Farm: V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Computers%20on%20the%20Farm%3A%20Farm%20Uses%20for%20Computers%2C%20How%20to%20Select%20Software%20and%20Hardware%2C%20and%20Online%20Information%20Sources%20in%20Agriculture/Computers%20on%20Farm%3A%20V1P.txt",
+      "book_title": "Computers on the Farm: Farm Uses for Computers, How to Select Software and Hardware, and Online Information Sources in Agriculture",
+      "author": "Smith, Deborah Takiff",
+      "source": "gutenberg",
+      "gutenberg_id": "59316"
+    },
+    {
+      "group": "Computers—the machines we think with",
+      "title": "Computers-the machines V1P",
+      "file": "Computers—the machines we think with/Computers-the machines V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Computers%E2%80%94the%20machines%20we%20think%20with/Computers-the%20machines%20V1P.txt",
+      "book_title": "Computers—the machines we think with",
+      "author": "Halacy, D. S. (Daniel Stephen)",
+      "source": "gutenberg",
+      "gutenberg_id": "72572"
+    },
+    {
       "group": "Dick and Dr. Dan; Or, the boy monster hunters of the Bad Lands",
       "title": "Dic V1P",
       "file": "Dick and Dr. Dan; Or, the boy monster hunters of the Bad Lands/Dic V1P.txt",
@@ -148,6 +168,16 @@
       "author": "Hime, H. W. L. (Henry William Lovett), 1840-",
       "source": "gutenberg",
       "gutenberg_id": "54411"
+    },
+    {
+      "group": "Hackers, Heroes of the Computer Revolution. Chapters and",
+      "title": "Hackers, Heroes V1P",
+      "file": "Hackers, Heroes of the Computer Revolution. Chapters and/Hackers, Heroes V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Hackers%2C%20Heroes%20of%20the%20Computer%20Revolution.%20Chapters%20and/Hackers%2C%20Heroes%20V1P.txt",
+      "book_title": "Hackers, Heroes of the Computer Revolution. Chapters 1 and 2",
+      "author": "Levy, Steven",
+      "source": "gutenberg",
+      "gutenberg_id": "729"
     },
     {
       "group": "Home Life in Tokyo",
@@ -242,6 +272,16 @@
       "gutenberg_id": "19728"
     },
     {
+      "group": "On Line Data Acquisition Systems in Nuclear Physics,",
+      "title": "On Line Data V1P",
+      "file": "On Line Data Acquisition Systems in Nuclear Physics,/On Line Data V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/On%20Line%20Data%20Acquisition%20Systems%20in%20Nuclear%20Physics%2C/On%20Line%20Data%20V1P.txt",
+      "book_title": "On-Line Data-Acquisition Systems in Nuclear Physics, 1969",
+      "author": "National Research Council (U.S.). Ad Hoc Panel on On-line Computers in Nuclear Research",
+      "source": "gutenberg",
+      "gutenberg_id": "42613"
+    },
+    {
       "group": "Operation Earthworm",
       "title": "Operation Earthworm V1P",
       "file": "Operation Earthworm/Operation Earthworm V1P.txt",
@@ -332,6 +372,16 @@
       "gutenberg_id": "1662"
     },
     {
+      "group": "The Cosmic Computer",
+      "title": "The Cosmic Computer V1P",
+      "file": "The Cosmic Computer/The Cosmic Computer V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Cosmic%20Computer/The%20Cosmic%20Computer%20V1P.txt",
+      "book_title": "The Cosmic Computer",
+      "author": "Piper, H. Beam",
+      "source": "gutenberg",
+      "gutenberg_id": "20727"
+    },
+    {
       "group": "The Figure In The Mirage",
       "title": "Figure In The Mirage V1P",
       "file": "The Figure In The Mirage/Figure In The Mirage V1P.txt",
@@ -420,6 +470,16 @@
       "author": "R. H. (Robert Howlett)",
       "source": "gutenberg",
       "gutenberg_id": "17727"
+    },
+    {
+      "group": "The Secret Guide to Computers",
+      "title": "Secret Guide Computers V1P",
+      "file": "The Secret Guide to Computers/Secret Guide Computers V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Secret%20Guide%20to%20Computers/Secret%20Guide%20Computers%20V1P.txt",
+      "book_title": "The Secret Guide to Computers",
+      "author": "Walter, Russ",
+      "source": "gutenberg",
+      "gutenberg_id": "672"
     },
     {
       "group": "The Story of General Pershing",
