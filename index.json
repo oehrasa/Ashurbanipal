@@ -1,6 +1,16 @@
 {
-  "generated": 1791433935,
+  "generated": 1791779904,
   "books": [
+    {
+      "group": "\"Barbarous Soviet Russia\"",
+      "title": "Barbarous V1P",
+      "file": "\"Barbarous Soviet Russia\"/Barbarous V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/%22Barbarous%20Soviet%20Russia%22/Barbarous%20V1P.txt",
+      "book_title": "\"Barbarous Soviet Russia\"",
+      "author": "McBride, Isaac",
+      "source": "gutenberg",
+      "gutenberg_id": "49055"
+    },
     {
       "group": "121584main fs dfrc",
       "title": "NASA Facts Xb-70 V1P",
@@ -72,6 +82,16 @@
       "title": "Bismarck & Tirpitz V1P",
       "file": "Battleships of the Bismarck class Bismarck and Tirpitz Gerhard Koop, Bernard Koop, Klaus Peter Schmolke Open Road Integrated Media, Inc , isbn13 4fa2b388e436121be13d27b665b31c3b Anna’s Archiv/Bismarck & Tirpitz V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/Battleships%20of%20the%20Bismarck%20class%20Bismarck%20and%20Tirpitz%20Gerhard%20Koop%2C%20Bernard%20Koop%2C%20Klaus%20Peter%20Schmolke%20Open%20Road%20Integrated%20Media%2C%20Inc%20%2C%20isbn13%204fa2b388e436121be13d27b665b31c3b%20Anna%E2%80%99s%20Archiv/Bismarck%20%26%20Tirpitz%20V1P.txt"
+    },
+    {
+      "group": "Checklist A complete, cumulative Checklist of lesbian, variant and homosexual fiction, in English or available in English translation, with supplements of related material, for the use of collectors, students and librarians.",
+      "title": "Cumulative Checklist V1P",
+      "file": "Checklist A complete, cumulative Checklist of lesbian, variant and homosexual fiction, in English or available in English translation, with supplements of related material, for the use of collectors, students and librarians./Cumulative Checklist V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Checklist%20A%20complete%2C%20cumulative%20Checklist%20of%20lesbian%2C%20variant%20and%20homosexual%20fiction%2C%20in%20English%20or%20available%20in%20English%20translation%2C%20with%20supplements%20of%20related%20material%2C%20for%20the%20use%20of%20collectors%2C%20students%20and%20librarians./Cumulative%20Checklist%20V1P.txt",
+      "book_title": "Checklist\r\nA complete, cumulative Checklist of lesbian, variant and homosexual fiction, in English or available in English translation, with supplements of related material, for the use of collectors, students and librarians.",
+      "author": "Bradley, Marion Zimmer, 1930-1999 [Editor]; Damon, Gene, 1933-2011 [Editor]",
+      "source": "gutenberg",
+      "gutenberg_id": "39184"
     },
     {
       "group": "Committee on an Assessment of Concepts and Systems for U.S. Boos Making Sense of Ballistic Missile Defense An Assessment of Concepts and Systems for U.S. Boost Phase Missile Defense in Compar (, National Academies Pre",
@@ -442,6 +462,16 @@
       "gutenberg_id": "77538"
     },
     {
+      "group": "The vortex blaster makes war",
+      "title": "vortex blaster V1P",
+      "file": "The vortex blaster makes war/vortex blaster V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20vortex%20blaster%20makes%20war/vortex%20blaster%20V1P.txt",
+      "book_title": "The vortex blaster makes war",
+      "author": "Smith, E. E. (Edward Elmer), 1890-1965",
+      "source": "gutenberg",
+      "gutenberg_id": "69254"
+    },
+    {
       "group": "Tiger by the Tail",
       "title": "Tiger by the Tail V1P",
       "file": "Tiger by the Tail/Tiger by the Tail V1P.txt",
@@ -460,6 +490,16 @@
       "author": "White Sands Missile Range (N.M.). Public Affairs Office",
       "source": "gutenberg",
       "gutenberg_id": "278"
+    },
+    {
+      "group": "Ukraine under the Soviets",
+      "title": "Ukraine under Soviets V1P",
+      "file": "Ukraine under the Soviets/Ukraine under Soviets V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Ukraine%20under%20the%20Soviets/Ukraine%20under%20Soviets%20V1P.txt",
+      "book_title": "Ukraine under the Soviets",
+      "author": "Manning, Clarence Augustus, 1893-1972",
+      "source": "gutenberg",
+      "gutenberg_id": "79579"
     },
     {
       "group": "Varney the vampyre; or, the feast of blood",
