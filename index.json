@@ -1,5 +1,5 @@
 {
-  "generated": 1791781102,
+  "generated": 1791943416,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -262,6 +262,16 @@
       "url": "https://oehrasa.github.io/Ashurbanipal/NetWorld%21%20What%20People%20Are%20Reall%20David%20H.%20Rothman/NetWorld%21%20What%20People%20V1P.txt"
     },
     {
+      "group": "Neuralgia and the diseases that resemble it",
+      "title": "Neuralgia and diseases V1P",
+      "file": "Neuralgia and the diseases that resemble it/Neuralgia and diseases V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Neuralgia%20and%20the%20diseases%20that%20resemble%20it/Neuralgia%20and%20diseases%20V1P.txt",
+      "book_title": "Neuralgia and the diseases that resemble it",
+      "author": "Anstie, Francis Edmund, 1833-1874",
+      "source": "gutenberg",
+      "gutenberg_id": "37592"
+    },
+    {
       "group": "Northern Nut Growers Association Report of the Proceedings at the Twelfth Annual Meeting Lancaster, Pennsylvania, October and ,",
       "title": "Northern Nut Growers V1P",
       "file": "Northern Nut Growers Association Report of the Proceedings at the Twelfth Annual Meeting Lancaster, Pennsylvania, October and ,/Northern Nut Growers V1P.txt",
@@ -440,6 +450,16 @@
       "author": "Penrose, Margaret",
       "source": "gutenberg",
       "gutenberg_id": "7210"
+    },
+    {
+      "group": "The Natural Cure of Consumption, Constipation, Bright's Disease, Neuralgia, Rheumatism, \"Colds\" (Fevers), Etc. How Sickness Originates, and How to Prevent It. A Health Manual for the People.",
+      "title": "Natural Cure V1P",
+      "file": "The Natural Cure of Consumption, Constipation, Bright's Disease, Neuralgia, Rheumatism, \"Colds\" (Fevers), Etc. How Sickness Originates, and How to Prevent It. A Health Manual for the People./Natural Cure V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Natural%20Cure%20of%20Consumption%2C%20Constipation%2C%20Bright%27s%20Disease%2C%20Neuralgia%2C%20Rheumatism%2C%20%22Colds%22%20%28Fevers%29%2C%20Etc.%20How%20Sickness%20Originates%2C%20and%20How%20to%20Prevent%20It.%20A%20Health%20Manual%20for%20the%20People./Natural%20Cure%20V1P.txt",
+      "book_title": "The Natural Cure of Consumption, Constipation, Bright's Disease, Neuralgia, Rheumatism, \"Colds\" (Fevers), Etc.\r\nHow Sickness Originates, and How to Prevent It. A Health Manual for the People.",
+      "author": "Page, C. E. (Charles Edward), 1840-",
+      "source": "gutenberg",
+      "gutenberg_id": "40184"
     },
     {
       "group": "The Nuclear Ship Savannah First Atomic Merchant Ship, One of the World's Safest Ships",
