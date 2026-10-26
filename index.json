@@ -1,5 +1,5 @@
 {
-  "generated": 1791943416,
+  "generated": 1792986961,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -130,6 +130,16 @@
       "gutenberg_id": "68698"
     },
     {
+      "group": "Eben Holden's Last Day A Fishing",
+      "title": "Last Day A Fishing V1P",
+      "file": "Eben Holden's Last Day A Fishing/Last Day A Fishing V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Eben%20Holden%27s%20Last%20Day%20A%20Fishing/Last%20Day%20A%20Fishing%20V1P.txt",
+      "book_title": "Eben Holden's Last Day A-Fishing",
+      "author": "Bacheller, Irving, 1859-1950",
+      "source": "gutenberg",
+      "gutenberg_id": "52454"
+    },
+    {
       "group": "Esther Waters",
       "title": "Esther Waters V1P",
       "file": "Esther Waters/Esther Waters V1P.txt",
@@ -138,6 +148,16 @@
       "author": "Moore, George, 1852-1933",
       "source": "gutenberg",
       "gutenberg_id": "8157"
+    },
+    {
+      "group": "Fishing with the fly",
+      "title": "Fishing with the fly V1P",
+      "file": "Fishing with the fly/Fishing with the fly V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Fishing%20with%20the%20fly/Fishing%20with%20the%20fly%20V1P.txt",
+      "book_title": "Fishing with the fly",
+      "author": "Orvis, C. F. (Charles Frederick), 1831-1915 [Compiler]; Cheney, A. Nelson (Albert Nelson), 1847-1901 [Compiler]",
+      "source": "gutenberg",
+      "gutenberg_id": "46680"
     },
     {
       "group": "Flying Machines: Construction and Operation A Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship",
