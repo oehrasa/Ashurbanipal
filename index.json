@@ -1,5 +1,5 @@
 {
-  "generated": 1793078601,
+  "generated": 1793088316,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -32,6 +32,26 @@
       "author": "Davis, William Stearns, 1877-1930",
       "source": "gutenberg",
       "gutenberg_id": "4716"
+    },
+    {
+      "group": "A House in Bloomsbury",
+      "title": "A House in Bloomsbury V1P",
+      "file": "A House in Bloomsbury/A House in Bloomsbury V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/A%20House%20in%20Bloomsbury/A%20House%20in%20Bloomsbury%20V1P.txt",
+      "book_title": "A House in Bloomsbury",
+      "author": "Oliphant, Mrs. (Margaret), 1828-1897",
+      "source": "gutenberg",
+      "gutenberg_id": "55140"
+    },
+    {
+      "group": "A discourse concerning ridicule and irony in writing",
+      "title": "A discourse concerning V1P",
+      "file": "A discourse concerning ridicule and irony in writing/A discourse concerning V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/A%20discourse%20concerning%20ridicule%20and%20irony%20in%20writing/A%20discourse%20concerning%20V1P.txt",
+      "book_title": "A discourse concerning ridicule and irony in writing (1729)",
+      "author": "Collins, Anthony, 1676-1729; Bloom, Edward A. (Edward Alan), 1914-1994 [Editor]; Bloom, Lillian D., 1920-2002 [Editor]",
+      "source": "gutenberg",
+      "gutenberg_id": "30343"
     },
     {
       "group": "A guide to the Egyptian collect British Museum. Department of E",
@@ -82,6 +102,16 @@
       "title": "Bismarck & Tirpitz V1P",
       "file": "Battleships of the Bismarck class Bismarck and Tirpitz Gerhard Koop, Bernard Koop, Klaus Peter Schmolke Open Road Integrated Media, Inc , isbn13 4fa2b388e436121be13d27b665b31c3b Anna’s Archiv/Bismarck & Tirpitz V1P.txt",
       "url": "https://oehrasa.github.io/Ashurbanipal/Battleships%20of%20the%20Bismarck%20class%20Bismarck%20and%20Tirpitz%20Gerhard%20Koop%2C%20Bernard%20Koop%2C%20Klaus%20Peter%20Schmolke%20Open%20Road%20Integrated%20Media%2C%20Inc%20%2C%20isbn13%204fa2b388e436121be13d27b665b31c3b%20Anna%E2%80%99s%20Archiv/Bismarck%20%26%20Tirpitz%20V1P.txt"
+    },
+    {
+      "group": "Blooms of the Berry",
+      "title": "Bloom of the Berry V1P",
+      "file": "Blooms of the Berry/Bloom of the Berry V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Blooms%20of%20the%20Berry/Bloom%20of%20the%20Berry%20V1P.txt",
+      "book_title": "Blooms of the Berry",
+      "author": "Cawein, Madison Julius, 1865-1914",
+      "source": "gutenberg",
+      "gutenberg_id": "31919"
     },
     {
       "group": "Checklist A complete, cumulative Checklist of lesbian, variant and homosexual fiction, in English or available in English translation, with supplements of related material, for the use of collectors, students and librarians.",
@@ -410,6 +440,16 @@
       "author": "Schmid, Christoph von, 1768-1854; Charlton, Watson [Illustrator]; Evans, W. E. [Illustrator]",
       "source": "gutenberg",
       "gutenberg_id": "24160"
+    },
+    {
+      "group": "The Bird and Insects' Post Office",
+      "title": "The Bird and Insects V1P",
+      "file": "The Bird and Insects' Post Office/The Bird and Insects V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Bird%20and%20Insects%27%20Post%20Office/The%20Bird%20and%20Insects%20V1P.txt",
+      "book_title": "The Bird and Insects' Post Office",
+      "author": "Bloomfield, Robert, 1766-1823",
+      "source": "gutenberg",
+      "gutenberg_id": "31787"
     },
     {
       "group": "The CIA World Factbook",
