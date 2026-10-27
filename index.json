@@ -1,5 +1,5 @@
 {
-  "generated": 1792986961,
+  "generated": 1793078601,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -276,6 +276,16 @@
       "gutenberg_id": "38045"
     },
     {
+      "group": "Nan Sherwood at Palm Beach; or, Strange adventures among the orange groves",
+      "title": "Nan Sherwood V1P",
+      "file": "Nan Sherwood at Palm Beach; or, Strange adventures among the orange groves/Nan Sherwood V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Nan%20Sherwood%20at%20Palm%20Beach%3B%20or%2C%20Strange%20adventures%20among%20the%20orange%20groves/Nan%20Sherwood%20V1P.txt",
+      "book_title": "Nan Sherwood at Palm Beach; or, Strange adventures among the orange groves",
+      "author": "Carr, Annie Roe",
+      "source": "gutenberg",
+      "gutenberg_id": "24683"
+    },
+    {
       "group": "NetWorld! What People Are Reall David H. Rothman",
       "title": "NetWorld! What People V1P",
       "file": "NetWorld! What People Are Reall David H. Rothman/NetWorld! What People V1P.txt",
@@ -382,6 +392,16 @@
       "gutenberg_id": "110"
     },
     {
+      "group": "The Barrier",
+      "title": "The Barrier V1P",
+      "file": "The Barrier/The Barrier V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Barrier/The%20Barrier%20V1P.txt",
+      "book_title": "The Barrier",
+      "author": "Beach, Rex, 1877-1949",
+      "source": "gutenberg",
+      "gutenberg_id": "4082"
+    },
+    {
       "group": "The Basket of Flowers",
       "title": "Basket of Flowers V1P",
       "file": "The Basket of Flowers/Basket of Flowers V1P.txt",
@@ -430,6 +450,16 @@
       "author": "Dent, John Charles, 1841-1888",
       "source": "gutenberg",
       "gutenberg_id": "6917"
+    },
+    {
+      "group": "The House on the Beach: A Realistic Tale",
+      "title": "House on the Beach V1P",
+      "file": "The House on the Beach: A Realistic Tale/House on the Beach V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20House%20on%20the%20Beach%3A%20A%20Realistic%20Tale/House%20on%20the%20Beach%20V1P.txt",
+      "book_title": "The House on the Beach: A Realistic Tale",
+      "author": "Meredith, George, 1828-1909",
+      "source": "gutenberg",
+      "gutenberg_id": "4495"
     },
     {
       "group": "The King in Yellow",
@@ -610,6 +640,16 @@
       "author": "Prest, Thomas Peckett, 1810-1859; Rymer, James Malcolm, 1814?-1884",
       "source": "gutenberg",
       "gutenberg_id": "14833"
+    },
+    {
+      "group": "Washington Square Plays",
+      "title": "Washington V1P",
+      "file": "Washington Square Plays/Washington V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Washington%20Square%20Plays/Washington%20V1P.txt",
+      "book_title": "Washington Square Plays",
+      "author": "Beach, Lewis, 1891-1947; Gerstenberg, Alice, 1885-1972; Goodman, Edward, 1888-1962; Moeller, Philip, 1880-1958; Eaton, Walter Prichard, 1878-1957 [Author of introduction, etc.]",
+      "source": "gutenberg",
+      "gutenberg_id": "3068"
     },
     {
       "group": "Who Cares? A Story of Adolescence",
