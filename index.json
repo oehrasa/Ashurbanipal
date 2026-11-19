@@ -1,5 +1,5 @@
 {
-  "generated": 1793088316,
+  "generated": 1795065629,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -268,6 +268,16 @@
       "author": "Anonymous",
       "source": "gutenberg",
       "gutenberg_id": "27468"
+    },
+    {
+      "group": "IBM System RPG Debugging Template and Keypunch Card",
+      "title": "IBM System RPG Debug V1P",
+      "file": "IBM System RPG Debugging Template and Keypunch Card/IBM System RPG Debug V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/IBM%20System%20RPG%20Debugging%20Template%20and%20Keypunch%20Card/IBM%20System%20RPG%20Debug%20V1P.txt",
+      "book_title": "IBM System 360 RPG Debugging Template and Keypunch Card",
+      "author": "Anonymous",
+      "source": "gutenberg",
+      "gutenberg_id": "37504"
     },
     {
       "group": "Judgments of the Court of Appeal of New Zealand on Proceedings to Review Aspects of the Report of the Royal Commission of Inquiry into the Mount Erebus Aircraft Disaster C.A. ",
