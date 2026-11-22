@@ -1,5 +1,5 @@
 {
-  "generated": 1795065629,
+  "generated": 1795323486,
   "books": [
     {
       "group": "\"Barbarous Soviet Russia\"",
@@ -210,6 +210,16 @@
       "gutenberg_id": "9404"
     },
     {
+      "group": "Geographic Variation in the Harvest Mouse, Reithrodontomys megalotis, On the Central Great Plains And in Adjacent Regions",
+      "title": "Geographic Variation V1P",
+      "file": "Geographic Variation in the Harvest Mouse, Reithrodontomys megalotis, On the Central Great Plains And in Adjacent Regions/Geographic Variation V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Geographic%20Variation%20in%20the%20Harvest%20Mouse%2C%20Reithrodontomys%20megalotis%2C%20On%20the%20Central%20Great%20Plains%20And%20in%20Adjacent%20Regions/Geographic%20Variation%20V1P.txt",
+      "book_title": "Geographic Variation in the Harvest Mouse, Reithrodontomys megalotis, On the Central Great Plains And in Adjacent Regions",
+      "author": "Jones, J. Knox, 1929-1992; Mursaloglu, B.",
+      "source": "gutenberg",
+      "gutenberg_id": "29563"
+    },
+    {
       "group": "Gunpowder and Ammunition, Their Origin and Progress",
       "title": "Gunpowder & Amunition V1P",
       "file": "Gunpowder and Ammunition, Their Origin and Progress/Gunpowder & Amunition V1P.txt",
@@ -316,6 +326,16 @@
       "gutenberg_id": "38045"
     },
     {
+      "group": "Micromegas",
+      "title": "Micromegas V1P",
+      "file": "Micromegas/Micromegas V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Micromegas/Micromegas%20V1P.txt",
+      "book_title": "Micromegas",
+      "author": "Voltaire, 1694-1778; Phalen, Peter [Translator]",
+      "source": "gutenberg",
+      "gutenberg_id": "30123"
+    },
+    {
       "group": "Nan Sherwood at Palm Beach; or, Strange adventures among the orange groves",
       "title": "Nan Sherwood V1P",
       "file": "Nan Sherwood at Palm Beach; or, Strange adventures among the orange groves/Nan Sherwood V1P.txt",
@@ -350,6 +370,16 @@
       "author": "Northern Nut Growers Association [Editor]",
       "source": "gutenberg",
       "gutenberg_id": "19728"
+    },
+    {
+      "group": "Omega, the Man",
+      "title": "Omega, the Man V1P",
+      "file": "Omega, the Man/Omega, the Man V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Omega%2C%20the%20Man/Omega%2C%20the%20Man%20V1P.txt",
+      "book_title": "Omega, the Man",
+      "author": "Morrow, Lowell Howard; Morey, Leo, 1889-1965 [Illustrator]",
+      "source": "gutenberg",
+      "gutenberg_id": "26882"
     },
     {
       "group": "On Line Data Acquisition Systems in Nuclear Physics,",
@@ -410,6 +440,16 @@
       "author": "Bindloss, Harold, 1866-1945",
       "source": "gutenberg",
       "gutenberg_id": "69277"
+    },
+    {
+      "group": "Systematics of Megachiropteran Bats in the Solomon Islands",
+      "title": "Megachiropteran V1P",
+      "file": "Systematics of Megachiropteran Bats in the Solomon Islands/Megachiropteran V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/Systematics%20of%20Megachiropteran%20Bats%20in%20the%20Solomon%20Islands/Megachiropteran%20V1P.txt",
+      "book_title": "Systematics of Megachiropteran Bats in the Solomon Islands",
+      "author": "Phillips, Carleton J.",
+      "source": "gutenberg",
+      "gutenberg_id": "40112"
     },
     {
       "group": "Telling Fortunes By Tea Leaves: How to Read Your Fate in a Teacup",
@@ -530,6 +570,16 @@
       "author": "Fabre, Jean-Henri, 1823-1915; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
       "source": "gutenberg",
       "gutenberg_id": "66762"
+    },
+    {
+      "group": "The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara",
+      "title": "Geometrim of Euclid V1P",
+      "file": "The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara/Geometrim of Euclid V1P.txt",
+      "url": "https://oehrasa.github.io/Ashurbanipal/The%20Mathematicall%20Praeface%20to%20Elements%20of%20Geometrie%20of%20Euclid%20of%20Megara/Geometrim%20of%20Euclid%20V1P.txt",
+      "book_title": "The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara",
+      "author": "Dee, John, 1527-1608",
+      "source": "gutenberg",
+      "gutenberg_id": "22062"
     },
     {
       "group": "The Merry Thought: or the Glass Window and Bog House Miscellany. Parts , and",
